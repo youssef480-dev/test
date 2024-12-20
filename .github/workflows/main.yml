@@ -11,5 +11,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: "test github action"
+      - name: "print my name"
         run: echo youssef
